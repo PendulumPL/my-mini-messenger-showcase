@@ -1,6 +1,6 @@
 # My Mini Messenger
 
-**Nieoficjalny klient Messengera na Windows. Przeczytaj wiadomość i odpisz z dymka, bez przełączania okna.**
+**Nieoficjalny klient Messengera na Windows. Prowadź rozmowy w osobnym oknie albo odpisuj szybko z dymka powiadomienia.**
 
 [Zobacz demo (26 s, MP4)](assets/demo-pl.mp4) · [Centrum powiadomień](assets/center-pl.png)
 
@@ -8,6 +8,7 @@
 
 ## Jak to działa
 
+- **Pełne rozmowy.** Otwórz Messengera w osobnym oknie, czytaj wiadomości i odpisuj tak jak w desktopowej aplikacji Messenger.
 - **Szybka odpowiedź.** Nowa wiadomość pojawia się w rogu ekranu. Możesz wpisać odpowiedź, wybrać gotowy tekst albo otworzyć rozmowę.
 - **Centrum powiadomień.** Wiadomości od różnych osób trafiają do jednego miejsca. Możesz przejrzeć historię, zobaczyć podgląd multimediów i dopisać lokalną notatkę do rozmowy.
 - **Tryb prywatny.** Rozmywa treść i multimedia w powiadomieniach, gdy udostępniasz ekran.
@@ -22,7 +23,7 @@ Po wpisaniu hasła formularz logowania potrafił utknąć na animacji ładowania
 
 ## English
 
-My Mini Messenger is an unofficial Windows desktop client for Messenger. Reply from a small notification, then get back to what you were doing. A local notification center collects messages, media previews and conversation notes. Built with Rust, Tauri 2, JavaScript and WebView2. The [26-second demo](assets/demo-pl.mp4) shows the Polish interface with fictional messages and simulated replies.
+My Mini Messenger is an unofficial Windows desktop client for Messenger. Open conversations and reply in a dedicated window, or reply directly from a small notification. A local notification center collects messages, media previews and conversation notes. Built with Rust, Tauri 2, JavaScript and WebView2. The [26-second demo](assets/demo-pl.mp4) shows the Polish interface with fictional messages and simulated replies.
 
 ---
 
