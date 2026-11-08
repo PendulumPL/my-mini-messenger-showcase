@@ -24,7 +24,7 @@ Wpisz wiadomość w dolnym polu, tak jak w Messengerze. Na ilustracji dane rozm�
 
 Wybrane filmy z rozmów możesz otworzyć i odtworzyć w oknie podglądu.
 
-![Przykładowy podgląd filmu otwartego z rozmowy](assets/podglad-filmu.png)
+![Przykładowy podgląd filmu otwartego z rozmowy](assets/podglad-filmu-reakcje.png)
 
 ## Od usterki do poprawki
 
