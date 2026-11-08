@@ -2,7 +2,7 @@
 
 **Nieoficjalny klient Messengera na Windows. Prowadź rozmowy w osobnym oknie albo odpisuj szybko z dymka powiadomienia.**
 
-[Zobacz demo (26 s, MP4)](assets/demo-pl.mp4) · [Centrum powiadomień](assets/center-pl.png)
+[Zobacz demo (30 s, MP4)](assets/demo-rozmowa.mp4) · [Centrum powiadomień](assets/center-pl.png)
 
 ![Dymek wiadomości z polem odpowiedzi, przyciskiem Wyślij i czterema gotowymi odpowiedziami](assets/notification-pl.png)
 
@@ -18,7 +18,7 @@
 
 Wpisz wiadomość w dolnym polu, tak jak w Messengerze. Na ilustracji dane rozmów zostały zasłonięte, a pole odpowiedzi zaznaczone.
 
-![Okno rozmowy z zaznaczonym polem wpisywania wiadomości](assets/rozmowa.png)
+![Okno rozmowy z zaznaczonym polem wpisywania wiadomości](assets/rozmowa-rozmyta.png)
 
 ### Podgląd filmu
 
@@ -32,11 +32,11 @@ Po wpisaniu hasła formularz logowania potrafił utknąć na animacji ładowania
 
 **Technologie** · Rust, Tauri 2, JavaScript i WebView2. Testy automatyczne obejmują między innymi reguły nawigacji i zachowanie interfejsu powiadomień.
 
-**Stan projektu** · Beta 0.2.8 dla Windows x64, interfejs po polsku i angielsku. Demo pokazuje interfejs na fikcyjnych danych z symulowanym wysyłaniem odpowiedzi.
+**Stan projektu** · Beta 0.2.8 dla Windows x64, interfejs po polsku i angielsku. Demo przedstawia rozmytą ilustrację rozmowy oraz interfejs na fikcyjnych danych z symulowanym wysyłaniem odpowiedzi.
 
 ## English
 
-My Mini Messenger is an unofficial Windows desktop client for Messenger. Open conversations and reply in a dedicated window, or reply directly from a small notification. Open selected shared videos in a separate preview window, subject to availability. A local notification center collects messages, media previews and conversation notes. Built with Rust, Tauri 2, JavaScript and WebView2. The [26-second demo](assets/demo-pl.mp4) shows the Polish interface with fictional messages and simulated replies.
+My Mini Messenger is an unofficial Windows desktop client for Messenger. Open conversations and reply in a dedicated window, or reply directly from a small notification. Open selected shared videos in a separate preview window, subject to availability. A local notification center collects messages, media previews and conversation notes. Built with Rust, Tauri 2, JavaScript and WebView2. The [30-second demo](assets/demo-rozmowa.mp4) shows a blurred conversation illustration and the Polish interface with fictional messages and simulated replies.
 
 ---
 
